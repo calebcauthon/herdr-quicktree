@@ -1,0 +1,3 @@
+{
+  "global": { "cmd-shift-n": "mod.open:quicktree" }
+}

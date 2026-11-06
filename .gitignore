@@ -1,0 +1,4 @@
+# Written into mod folders by the Herdr app
+mods/*/jsconfig.json
+mods/*/gpui-kit.d.ts
+.serena/
