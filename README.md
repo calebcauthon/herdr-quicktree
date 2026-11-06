@@ -7,7 +7,18 @@ it opens the folder itself. `cmd-shift-n` does the same from the keyboard.
 
 ![Quicktree](preview.png)
 
-Install: `git clone https://github.com/calebcauthon/herdr-quicktree && herdr-quicktree/install.sh`.
+## Install
+
+Ask your agent in Herdr:
+
+> Add the Herdr mod github.com/calebcauthon/herdr-quicktree
+
+Or run:
+
+```sh
+git clone https://github.com/calebcauthon/herdr-quicktree && herdr-quicktree/install.sh
+```
+
 It copies `mods/quicktree/`, adds the buttons under Spaces in a `main-quicktree` layout
 and merges `keys.json`. [RECIPE.md](RECIPE.md) is the brief to build it from scratch.
 
